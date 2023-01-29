@@ -5,10 +5,10 @@ def  kuadrat ( angka ):
 
 # Menjawab Soal No 1
 mahasiswa  = {
-    "nim" : "20121078" ,
-    "nama" : "M. Arief Kurniawan" ,
+    "nim" : "20121095" ,
+    "nama" : "sunarso" ,
     "kelas" : "TI 3B" ,
-    "alamat" : "Wonoyoso GG.5 RT.22 RT.02 Buaran, Pekalongan"
+    "alamat" : "Ds wonosegoro Rt.02 Rw01, Bandar"
 }
 
 # Menjawab Soal No 2

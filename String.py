@@ -1,7 +1,7 @@
 telepon_mhs  = {
-    "alisa" : 852674569 ,
-    "yudi" : 85450001 ,
-    "Firly" : 851234568
+    "burhan" : 852674569 ,
+    "reza" : 85450001 ,
+    "mael" : 851234568
 }
 
 print ( telepon_mhs [ "yudi" ])

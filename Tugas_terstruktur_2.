@@ -6,9 +6,9 @@ def  kuadrat ( angka ):
 # Menjawab Soal No 1
 mahasiswa  = {
     "nim" : "20121095" ,
-    "nama" : "sunarso" ,
+    "nama" : "hamdi" ,
     "kelas" : "TI 3B" ,
-    "alamat" : "Ds wonosegoro Rt.02 Rw01, Bandar"
+    "alamat" : "Ds Clapar Dk Gondangsari"
 }
 
 # Menjawab Soal No 2
